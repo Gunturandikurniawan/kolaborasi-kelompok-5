@@ -1,1 +1,1 @@
-print("jawa")
+print("jawa timur")

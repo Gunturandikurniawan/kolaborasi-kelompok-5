@@ -10,6 +10,11 @@ data = [
     {
         "username" : "fadel123",
         "password" : "123"
+    },
+    
+     {
+        "username" : "ridhol123",
+        "password" : "123"
     }
     
 ]
